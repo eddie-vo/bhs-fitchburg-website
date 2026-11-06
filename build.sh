@@ -23,3 +23,4 @@ if not (out / 'index.html').is_file():
     raise RuntimeError('Missing homepage')
 PY
 python3 redesign.py
+python3 apply_brand.py
